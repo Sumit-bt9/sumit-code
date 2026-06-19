@@ -1,0 +1,4 @@
+Server_ID,Server_Location,Downtime_Minutes,Crash_Reason
+SRV-104,Frankfurt,177,"Database Overload"
+SRV-104,London,158,"Database Overload"
+SRV-101,Frankfurt,128,"Power Outage"
