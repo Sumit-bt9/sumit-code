@@ -1,0 +1,51 @@
+Server_ID,Server_Location,Environment,Downtime_Minutes,Crash_Reason,Month
+SRV-103,Singapore,Testing,0,None,Jan
+SRV-102,Mumbai,Testing,0,None,Mar
+SRV-104,Virginia,Production,62,Database Overload,Apr
+SRV-105,London,Production,0,None,Feb
+SRV-103,Virginia,Production,26,Power Outage,Jun
+SRV-105,Mumbai,Development,0,None,Mar
+SRV-101,London,Development,29,Power Outage,Jan
+SRV-104,Singapore,Production,69,Software Update,Mar
+SRV-105,Frankfurt,Testing,143,Power Outage,Jan
+SRV-102,London,Development,71,Network Failure,Mar
+SRV-102,London,Development,105,Power Outage,Jan
+SRV-104,Mumbai,Development,51,Database Overload,Jan
+SRV-103,Mumbai,Testing,67,Network Failure,Apr
+SRV-103,Singapore,Testing,77,Software Update,Mar
+SRV-101,Mumbai,Production,97,Software Update,May
+SRV-102,Virginia,Testing,86,Database Overload,May
+SRV-105,Singapore,Development,39,Database Overload,Feb
+SRV-105,Virginia,Development,85,Database Overload,Mar
+SRV-104,Singapore,Production,134,Network Failure,Apr
+SRV-102,London,Production,0,None,Jun
+SRV-103,Frankfurt,Development,88,Software Update,Apr
+SRV-103,Mumbai,Testing,119,Database Overload,Apr
+SRV-104,Mumbai,Testing,0,None,Mar
+SRV-101,Singapore,Production,98,Network Failure,May
+SRV-101,Frankfurt,Testing,69,Power Outage,Apr
+SRV-104,Mumbai,Production,64,Power Outage,Jan
+SRV-101,Virginia,Testing,0,None,Jan
+SRV-101,Frankfurt,Development,65,Network Failure,Feb
+SRV-104,Singapore,Development,77,Power Outage,Jan
+SRV-102,Frankfurt,Production,52,Software Update,Mar
+SRV-104,London,Testing,174,Software Update,Jan
+SRV-103,Frankfurt,Development,91,Power Outage,Mar
+SRV-101,London,Development,47,Network Failure,Apr
+SRV-101,Frankfurt,Production,0,None,Jan
+SRV-105,Mumbai,Development,98,Power Outage,Jun
+SRV-101,Singapore,Development,116,Database Overload,Feb
+SRV-105,Singapore,Development,133,Software Update,Jun
+SRV-101,Mumbai,Development,137,Power Outage,May
+SRV-102,London,Production,76,Network Failure,Mar
+SRV-101,Singapore,Testing,134,Software Update,Feb
+SRV-103,London,Testing,0,None,Jun
+SRV-101,London,Testing,0,None,Apr
+SRV-105,Virginia,Production,110,Power Outage,Jun
+SRV-103,Virginia,Production,40,Power Outage,Feb
+SRV-101,Frankfurt,Testing,127,Software Update,May
+SRV-103,London,Production,86,Software Update,Apr
+SRV-104,London,Testing,154,Database Overload,Jun
+SRV-104,Singapore,Development,131,Network Failure,Mar
+SRV-105,Mumbai,Testing,66,Network Failure,Jun
+SRV-103,Virginia,Development,108,Network Failure,Jun
